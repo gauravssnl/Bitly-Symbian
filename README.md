@@ -10,3 +10,4 @@ Features :
 -Expand bit.ly link
 
 Thanks : Jehiah Czebotar (bitly_ api author)
+![ScreenShot] ( https://github.com/gauravssnl/Bitly-Symbian/blob/master/ss.jpg )
