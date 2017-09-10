@@ -11,4 +11,4 @@ Features :
 
 Thanks : Jehiah Czebotar (bitly_ api author)
 
-![ScreenShot] ( https://github.com/gauravssnl/Bitly-Symbian/blob/master/ss.jpg )
+![ScreenShot]( https://github.com/gauravssnl/Bitly-Symbian/blob/master/ss.jpg )
